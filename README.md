@@ -11,11 +11,11 @@ Contents:
  1. Full writeup - Thesis document 
  2. Agent videos 
  
-    Pong and Demon attack agents playing the game through the Atari Emulator 
+    'Atari Pong' and 'Demon attack' agents playing the game through the Atari Emulator 
  
  3. Appendix documents 
  
-    Piece on cacluating gradients in Pytorch 
+    Piece on calculatin gradients in Pytorch 
     
     The original project proposal
  
