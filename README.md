@@ -15,7 +15,7 @@ Contents:
  
  3. Appendix documents 
  
-    Piece on calculatin gradients in Pytorch 
+    Piece on calculating gradients in Pytorch 
     
     The original project proposal
  
