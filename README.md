@@ -16,6 +16,8 @@ Contents:
  3. Appendix documents 
  
     Piece on calculating gradients in Pytorch 
+      The citation for the 2 images used in this appendix is: 
+      "Raschka, S. and Mirajalili, V. (2019) Python machine learning: Machine learning and deep learning with python, scikit-learn, and tensorflow. Birmingham, UK: Packt Publishing."
     
     The original project proposal
  
